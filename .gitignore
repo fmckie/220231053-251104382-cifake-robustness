@@ -1,8 +1,13 @@
 *
 !.gitignore
 !README.md
-!Group_Neural_Networks_Cifake.ipynb
+!220231053_251104382_Group_Neural_Networks_Cifake.ipynb
 !resnet18_runner_COLAB.ipynb
 !make_figures.py
 !results/
 !results/**
+!handover-for-katie.pdf
+!220231053_251104382_report.pdf
+!presentation/
+!presentation/make_arch_figure.py
+!presentation/outline.md
