@@ -1,0 +1,8 @@
+*
+!.gitignore
+!README.md
+!Group_Neural_Networks_Cifake.ipynb
+!resnet18_runner_COLAB.ipynb
+!make_figures.py
+!results/
+!results/**
